@@ -1,7 +1,7 @@
 ---@type LazySpec
 return {
   "olimorris/codecompanion.nvim",
-  version = "^20.2.0",
+  version = "^20.3.0",
   opts = {},
   dependencies = {
     "nvim-lua/plenary.nvim",
